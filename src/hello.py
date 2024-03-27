@@ -1,5 +1,3 @@
 def hello():
-    #write your code below this line
+    # write your code below this line
     return 'Hello!'
-
-
